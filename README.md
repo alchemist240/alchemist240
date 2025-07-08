@@ -32,7 +32,7 @@ I'm a **full-stack developer** and **AI/ML enthusiast** passionate about buildin
 ## 🏆 Achievements
 
 - 🥇 **Top 10 Finalist** – *Excavate @ IIT Kharagpur 2025*  
-  Selected among the top 10 teams PAN India in a national-level hackathon for designing AI-first solutions in identifying bandgap in Perovskite Oxides that helps in the solar module generataion and semiconductor     industry.
+  Selected among the top 10 teams across India in a national-level hackathon for developing AI-first solutions to identify band gaps in Perovskite Oxides — a breakthrough application for advancing solar module     efficiency and semiconductor technologies.
 
 - 🏆 **Grand Finalist** – *Smart India Hackathon 2024*  
   Reached the final round of India's largest innovation competition by building a scalable solution for Blocchain based Smart Farmer contract system.
