@@ -5,12 +5,12 @@
 <p align="center">
 🎓 B.E in Information Technology | 🏫 VESIT, Mumbai <br>
 📍 India | ✉️ imkshitij2406@gmail.com <br>
-📫 <a href="https://in.linkedin.com/in/kshitij-hundre-b0a3602b">LinkedIn</a> • 
+📫 <a href="www.linkedin.com/in/kshitij-hundre-b0a3602b0">LinkedIn</a> • 
 💻 <a href="https://github.com/alchemist240">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&center=true&vCenter=true&width=1000&lines=AI+ML+Enthusiast+%7C+Full+Stack+Developer+%7C+ML+Researcher;Building+cool+tech+to+bridge+humans+%2B+machines+%F0%9F%A7%A0;Currently+working+on+my+brain+%F0%9F%9A%80;Sleep+is+a+social+construct+%E2%98%95%EF%B8%8F+%F0%9F%92%A1;Definitely+not+talking+to+GPT+at+3AM+%F0%9F%A4%96%F0%9F%92%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=900&center=true&vCenter=true&width=1000&lines=AI+ML+Enthusiast+%7C+Full+Stack+Developer+%7C+ML+Researcher;Building+cool+tech+to+bridge+humans+%2B+machines+%F0%9F%A7%A0;Currently+working+on+my+brain+%F0%9F%9A%80;Sleep+is+a+social+construct+%E2%98%95%EF%B8%8F+%F0%9F%92%A1;Definitely+not+talking+to+GPT+at+3AM+%F0%9F%A4%96%F0%9F%92%AC" alt="Typing SVG" />
 </p>
 
 
@@ -23,7 +23,7 @@
 I'm a **full-stack developer** and **AI/ML enthusiast** passionate about building impactful, real-world projects. I enjoy combining backend logic with frontend magic and infusing intelligence using machine learning.
 
 - 🔭 Currently working on: `AgniPariksha`, `Kshitij AI`, and a `3D Medical Imaging` tool  
-- 🌱 Learning: Advanced React, LLMs, and DICOM visualization,RAG 
+- 🌱 Learning: Advanced React, LLMs, DICOM visualization,RAG 
 - 💡 Favorite Stack: MERN + Python + Streamlit + Flask  
 - 🧠 Interests: AI Safety, Cognitive Tech, Neuro-symbolic ML  
 
@@ -35,7 +35,7 @@ I'm a **full-stack developer** and **AI/ML enthusiast** passionate about buildin
   Selected among the top 10 teams across India in a national-level hackathon for developing AI-first solutions to identify band gaps in Perovskite Oxides — a breakthrough application for advancing solar module     efficiency and semiconductor technologies.
 
 - 🏆 **Grand Finalist** – *Smart India Hackathon 2024*  
-  Reached the final round of India's largest innovation competition by building a scalable solution for Blocchain based Smart Farmer contract system.
+  Reached the final round of India's largest innovation competition by building a scalable solution for Blockchain based Smart Farmer contract system.
 
 ---
 
@@ -99,10 +99,10 @@ I'm a **full-stack developer** and **AI/ML enthusiast** passionate about buildin
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="mailto:kshitijhundre240@gmail.com" target="_blank">
+  <a href="mailto:imkshitij2406@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://in.linkedin.com/in/kshitij-hundre-b0a3602b" target="_blank">
+  <a href="www.linkedin.com/in/kshitij-hundre-b0a3602b0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/u/Kshitij_Hundre_24/" target="_blank">
