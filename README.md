@@ -5,7 +5,7 @@
 <p align="center">
 🎓 B.E in Information Technology | 🏫 VESIT, Mumbai <br>
 📍 India | ✉️ imkshitij2406@gmail.com <br>
-📫 <a href="www.linkedin.com/in/kshitij-hundre-b0a3602b0">LinkedIn</a> • 
+📫 <a href="https://www.linkedin.com/in/kshitij-hundre-b0a3602b0">LinkedIn</a> • 
 💻 <a href="https://github.com/alchemist240">GitHub</a>
 </p>
 
@@ -102,9 +102,9 @@ I'm a **full-stack developer** and **AI/ML enthusiast** passionate about buildin
   <a href="mailto:imkshitij2406@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="www.linkedin.com/in/kshitij-hundre-b0a3602b0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <a href="https://www.linkedin.com/in/kshitij-hundre-b0a3602b0" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
   <a href="https://leetcode.com/u/Kshitij_Hundre_24/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
